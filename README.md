@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @FrankyCraftr
-- 👀 I’m interested in ... Python, Java, C++
-- 🌱 I’m currently learning ... Python, Java, C++
-- 💞️ I’m looking to collaborate on ... Projects
-- 📫 How to reach me ... Contact me on Facebook https://www.facebook.com/fielfranco.degamo/
+- 👋 Hi, I’m @FrankyCraftr, Game and Software Developer.
+- 👀 Programming is HARD, But YOU✨can DO IT!😊
 
 <!---
 FrankyCraftr/FrankyCraftr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
