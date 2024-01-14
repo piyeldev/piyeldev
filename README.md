@@ -1,3 +1,5 @@
+[![Fiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyeldev)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Socials:</h3>
 <a href="https://fb.com/pyel.franco"><img src="https://img.shields.io/badge/fielfranco-0000FF?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
