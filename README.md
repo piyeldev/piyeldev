@@ -5,11 +5,7 @@
 
 **Web Development**
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-
-**Back-end Development**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte">
 
 **Mobile App Development**
 
@@ -25,9 +21,10 @@
 
 ## Current Status
  - 👨‍💻 Learning Software Development, How to make cross-platform apps
- - 🧮 Making [Calculator](https://piyeldev.github.io/calculator)
+ - 🧮 Making [Portfolio](https://piyeldev.github.io/portfolio)
  - 📝 Still Studying
- - 🏢 Looking to freelance 
+ - 🏢 Looking to <del>freelance</del>
+ - i use linux btw 🤓
 
 
 <h3>Reach me:</h3>
