@@ -23,7 +23,7 @@
  - 👨‍💻 Learning Software Development, How to make cross-platform apps
  - 🧮 Making [Portfolio](https://piyeldev.github.io/portfolio)
  - 📝 Still Studying
- - 🏢 Looking to <del>freelance</del>
+ - 🏢 Looking to <del>freelance</del> learn new things
  - i use linux btw 🤓
 
 
