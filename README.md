@@ -21,7 +21,7 @@
 
 ## Current Status
  - 👨‍💻 Learning Software Development, How to make cross-platform apps
- - 🧮 Making [Portfolio](https://piyeldev.github.io/portfolio)
+ - 🧮 Making [Fast Photo](https://github.com/piyeldev/Fast-Photo)
  - 📝 Still Studying
  - 🏢 Looking to <del>freelance</del> learn new things
  - i use linux btw 🤓
