@@ -23,8 +23,8 @@
  - 👨‍💻 Learning Software Development, How to make cross-platform apps
  - 🧮 Making [Fast Photo](https://github.com/piyeldev/Fast-Photo)
  - 📝 Still Studying
- - 🏢 Looking to <del>freelance</del> learn new things
- - i use linux btw 🤓
+ - 🏢 Looking to freelance and learn new things
+ - i use arch btw 🤓
 
 
 <h3>Reach me:</h3>
