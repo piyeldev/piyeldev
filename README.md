@@ -3,6 +3,8 @@
 
 ## I'm a passionate developer who love to do:
 
+PYTHON (PySide6 Desktop Development) (bro doesnt have time to make the shields hahahha)
+
 **Web Development**
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte">
@@ -20,8 +22,8 @@
 <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
 
 ## Current Status
- - 👨‍💻 Learning Software Development, How to make cross-platform apps
- - 🧮 Making [Fast Photo](https://github.com/piyeldev/Fast-Photo)
+ - 👨‍💻 Currently !tutorialhelling, coding by researching or getting help by chatgpt is much better imo
+ - 🧮 Making [Fast Photo]([https://github.com/piyeldev/Fast-Photo](https://github.com/piyeldev/Fast-Photobooth))
  - 📝 Still Studying
  - 🏢 Looking to freelance and learn new things
  - i use arch btw 🤓
@@ -33,7 +35,3 @@
 <a href="https://fb.com/pyel.franco"><img src="https://img.shields.io/badge/fiel-franco-0000FF?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 
--------------------
-
-### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{piyeldev}/count.svg)
