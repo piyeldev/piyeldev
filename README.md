@@ -2,12 +2,12 @@
 ## Hello! I'm _Fiel Franco Degamo_! 👦
 ### I'm a currently a hs student dev who love to do:
 
-**Desktop App Development**
+**Desktop App Development 🖥️**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](#)
 [![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff&style=for-the-badge)](#)
 
-**Web Development**
+**Web Development 🌐**
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)](#)
@@ -16,19 +16,19 @@
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white&style=for-the-badge)](#)
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white&style=for-the-badge)](#)
 
-**Mobile App Development**
+**Mobile App Development 📱**
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](#)
 
-**Designing**
+**Designing 🖌️**
 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white&style=for-the-badge)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](#)
 [![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)](#)
 [![Penpot](https://img.shields.io/badge/-Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white)](#)
 
-**Tinker with what I use**
+**Tinker with what I use ⚙️**
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](#) 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](#)
@@ -37,15 +37,15 @@
 [![Gnome](https://img.shields.io/badge/-GNOME-4A86CF?logo=gnome&logoColor=white&style=for-the-badge)](#)
 [![Custom Android OS](https://img.shields.io/badge/-Custom%20Android%20OS-34A853?style=for-the-badge&logo=android&logoColor=white)](#)
 
-**Watch and do things about electronics**
+**Watch and do things about electronics ⚡⚡⚡**
 
 [![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)](#)
 [![Espressif](https://img.shields.io/badge/-Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](#)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
 
-## _Current Status_
+## _Current Status 💭_ 
 
-=> 👨‍💻 **_Currently an shs student_** 📖
+=> 🧑‍🎓 **_Currently an shs student_** 📖
 
 => ✏️ **_Would like to create projects_** 🛠️
 
