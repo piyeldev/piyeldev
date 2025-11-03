@@ -1,37 +1,58 @@
-# Hello! I'm Fiel Franco Degamo! 👦
 [![Fiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyeldev)](https://github.com/anuraghazra/github-readme-stats)
+## Hello! I'm _Fiel Franco Degamo_! 👦
+### I'm a currently a hs student dev who love to do:
 
-## I'm a passionate developer who love to do:
+**Desktop App Development**
 
-PYTHON (PySide6 Desktop Development) (bro doesnt have time to make the shields hahahha)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](#)
+[![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff&style=for-the-badge)](#)
 
 **Web Development**
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte">
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white&style=for-the-badge)](#)
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white&style=for-the-badge)](#)
 
 **Mobile App Development**
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](#)
 
 **Designing**
 
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white&style=for-the-badge)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](#)
+[![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)](#)
+[![Penpot](https://img.shields.io/badge/-Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white)](#)
 
-**Tinker with the tools I use**
+**Tinker with what I use**
 
-<img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](#) 
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](#)
+[![Gnome](https://img.shields.io/badge/-GNOME-4A86CF?logo=gnome&logoColor=white&style=for-the-badge)](#)
+[![Custom Android OS](https://img.shields.io/badge/-Custom%20Android%20OS-34A853?style=for-the-badge&logo=android&logoColor=white)](#)
 
-## Current Status
- - 👨‍💻 Currently !tutorialhelling, coding by researching or getting help by chatgpt is much better imo
- - 🧮 Making [Fast Photo]([https://github.com/piyeldev/Fast-Photo](https://github.com/piyeldev/Fast-Photobooth))
- - 📝 Still Studying
- - 🏢 Looking to freelance and learn new things
- - i use arch btw 🤓
+**Watch and do things about electronics**
+
+[![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)](#)
+[![Espressif](https://img.shields.io/badge/-Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](#)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
+
+## _Current Status_
+
+=> 👨‍💻 **_Currently an shs student_** 📖
+
+=> ✏️ **_Would like to create projects_** 🛠️
+
+=> 🤓 **_i use arch btw, and i tinker a lot about android, and change android os_** 🤓
 
 
-<h3>Reach me:</h3>
-<a href="mailto: frankthecrafter23@gmail.com">
-<img src="https://img.shields.io/badge/-frankthecrafter23%40gmail.com-FF4122?&style=for-the-badge&logo=gmail&logoColor=white" ></a>
-<a href="https://fb.com/pyel.franco"><img src="https://img.shields.io/badge/fiel-franco-0000FF?style=for-the-badge&logo=facebook&logoColor=white"></a>
-
+### catch me at:
+[![Email](https://img.shields.io/badge/-frankthecrafter23%40gmail.com-FF4122?&style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/-fiel.d-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
