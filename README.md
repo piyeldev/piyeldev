@@ -1,4 +1,3 @@
-[![Fiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyeldev)](https://github.com/anuraghazra/github-readme-stats)
 ## Hello! I'm _Fiel Franco Degamo_! 👦
 ### I'm a currently a hs student dev who love to do:
 
