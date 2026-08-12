@@ -1,7 +1,10 @@
 ## Hello! _I'm Fiel!_ ✨
-I'm a currently a ***computer science freshman*** at the **University of the Philippines**.
+<img src="https://i.pinimg.com/originals/b4/40/fe/b440fe8b087416820258b711b91ca18a.gif"/>
+<img src="https://komarev.com/ghpvc/?username=piyeldev"/>
 
- 🔸 Interested in creating software and systems that help making the world a better place! 🌏<br />
+i'm a currently a ***computer science freshman*** at the **University of the Philippines**.
+
+ 🔸 i'm interested in creating software and systems that help making the world a better place! 🌏<br />
  ▪️ <i>"this comsci student takes a bath"</i> 😛<br />
  🔹 <i><b>i use arch btw </b></i>🤓
 ### Tech Stack and Tools
