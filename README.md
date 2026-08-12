@@ -50,5 +50,4 @@ i'm a currently a ***computer science freshman*** at the **University of the Phi
 
 ### catch me at:
 [![Email](https://img.shields.io/badge/-frankthecrafter23%40gmail.com-FF4122?&style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/-fiel.d-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
