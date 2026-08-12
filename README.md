@@ -1,7 +1,6 @@
 # 🚀 About Me 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=30&pause=1&color=000DF7&background=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=135&lines=Hello%2C+I'm+Fiel!+%E2%9C%A8;Currently+a+computer+science+freshman+;at+the+University+of+the+Philippines+%F0%9F%8C%BB)](https://git.io/typing-svg)
-<img src="https://komarev.com/ghpvc/?username=piyeldev"/>
-
+<img src="https://komarev.com/ghpvc/?username=piyeldev"/><br/>
  🔸 i'm interested in creating software and systems that help making the world a better place! 🌏<br />
  ▪️ <i>"this comsci student takes a bath"</i> 😛<br />
  🔹 <i><b>i use arch btw </b></i>🤓
@@ -47,3 +46,6 @@
 
 ### catch me at:
 [![Email](https://img.shields.io/badge/-frankthecrafter23%40gmail.com-FF4122?&style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+<img width="600" height="300" src="https://raw.githubusercontent.com/gist/s-shivangi/7b54ec766cf446cafeb83882b590174d/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif"/>
+
