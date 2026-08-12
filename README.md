@@ -1,20 +1,30 @@
 ## Hello! _I'm Fiel!_ ✨
 I'm a currently a ***computer science freshman*** at the **University of the Philippines**.
 
-🔸Interested in creating software and systems that help the world! 🌏
+🔸Interested in creating software and systems that help making the world a better place! 🌏
 
-**Desktop App Development 🖥️**
+### Tech Stack
+<details><summary><b>Desktop App Development 🖥️</b></summary> <br />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff&style=for-the-badge" />
+</details>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](#)
-[![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff&style=for-the-badge)](#)
+<details><summary><b>Web Development 🌐</b></summary> <br />
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white&style=for-the-badge" />
+</details>
 
-**Web Development 🌐**
+****
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](#)
-[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white&style=for-the-badge)](#)
+[![HTML]()](#)
+[![CSS]()](#)
+[![Tailwind CSS]()](#)
+[![JavaScript]()](#)
+[![Svelte]()](#)
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white&style=for-the-badge)](#)
 
 **Mobile App Development 📱**
