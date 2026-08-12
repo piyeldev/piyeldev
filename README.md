@@ -1,5 +1,5 @@
-## Hello! I'm _Fiel Franco Degamo_! 👦
-### I'm a currently a hs student dev who love to do:
+## Hello! I'm _Fiel!_ 👦
+I'm a currently a computer science freshman at the University of the Philippines.
 
 **Desktop App Development 🖥️**
 
