@@ -1,9 +1,13 @@
 # 🚀 About Me 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=30&pause=1&color=000DF7&background=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=135&lines=Hello%2C+I'm+Fiel!+%E2%9C%A8;Currently+a+computer+science+freshman+;at+the+University+of+the+Philippines+%F0%9F%8C%BB)](https://git.io/typing-svg)
-<img src="https://komarev.com/ghpvc/?username=piyeldev"/><br/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=piyeldev"/></p>
  🔸 i'm interested in creating software and systems that help making the world a better place! 🌏<br />
- ▪️ <i>"this comsci student takes a bath"</i> 😛<br />
+ ▪️ <i>"this comsci student takes a bath"</i> 😝<br />
  🔹 <i><b>i use arch btw </b></i>🤓
+
+<br/>
+<br/>
+
 
  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=piyeldev)](https://github.com/stats-organization/github-stats-extended)
 ### Tech Stack and Tools
