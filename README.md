@@ -45,9 +45,5 @@
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </details>
 
-
-
-
 ### catch me at:
 [![Email](https://img.shields.io/badge/-frankthecrafter23%40gmail.com-FF4122?&style=for-the-badge&logo=gmail&logoColor=white)](#)
-
