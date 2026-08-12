@@ -1,4 +1,4 @@
-## Hello! I'm _Fiel!_ ✨
+## Hello! _I'm Fiel!_ ✨
 I'm a currently a computer science freshman at the University of the Philippines.
 
 **Desktop App Development 🖥️**
