@@ -1,6 +1,7 @@
 ## Hello! _I'm Fiel!_ ✨
 I'm a currently a ***computer science freshman*** at the **University of the Philippines**.
 
+🔸Interested in creating software and systems that help the world! 🌏
 
 **Desktop App Development 🖥️**
 
