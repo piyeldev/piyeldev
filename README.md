@@ -5,6 +5,8 @@
  🔸 i'm interested in creating software and systems that help making the world a better place! 🌏<br />
  ▪️ <i>"this comsci student takes a bath"</i> 😛<br />
  🔹 <i><b>i use arch btw </b></i>🤓
+
+ [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=piyeldev)](https://github.com/stats-organization/github-stats-extended)
 ### Tech Stack and Tools
 <details><summary><b>🖥️ Desktop App Development</b></summary> <br />
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge"/>
